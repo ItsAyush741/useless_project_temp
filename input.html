@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Submit Gossip | GossipHub</title>
+    <link rel="stylesheet" href="stylesinput.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+</head>
+<body>
+    <header>
+    <a href="index.php" class="hub-link">
+        <h1>THALLIOLA</h1>
+    </a>
+    <p>When wings of fire met liyons puthren!!</p>
+    </header>
+
+
+    <!-- NAVIGATION BAR -->
+    
+
+    <main>
+        <section class="input-section">
+            <h2>എന്തൊക്കെയാ ഈ കൊച്ചു കേരളത്തിൽ നടക്കുന്നെ</h2>
+            <form class="gossip-form" enctype="multipart/form-data" action="input.php" method="POST">
+                <label for="gossip-title">Entha epo ondaye :</label>
+                <input type="text" id="gossip-title" name="gossip-title" required />
+                <label for="gossip-image">Evide??:</label>
+                <input type="file" id="gossip-image" name="gossip-image" accept="image/*" />
+                <label for="gossip-text">Egne?? :</label>
+                <textarea id="gossip-text" name="gossip-text" rows="5" required></textarea>
+                <button type="submit" class="btn btn-primary">Apo agne anu karayangal</button>
+            </form>
+
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 No heavens were hurt,A fallen angel initiative | Built at Uselessproject2.0</p>
+    </footer>
+</body>
+</html>

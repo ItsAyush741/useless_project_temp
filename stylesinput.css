@@ -1,0 +1,119 @@
+body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    background: #ffe4e1;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: #ff69b4;
+    color: #fff;
+    text-align: left;       /* Changed from center to left */
+    padding: 1rem 2rem 1rem 2rem; /* Reduced padding for upper left placement */
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    display: flex;          /* Use flexbox for more control */
+    flex-direction: column;
+    align-items: flex-start; /* Align content to start (left) */
+}
+
+header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+    letter-spacing: 2px;
+    margin-left: 0;    /* Remove extra margin if any */
+}
+footer {
+    background: #ff69b4;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    letter-spacing: 1px;
+    font-size: 1rem;
+}
+.input-section {
+    max-width: 430px;
+    background: #fff;
+    margin: 3rem auto 0 auto;
+    padding: 2.2rem 2rem 1.7rem 2rem;
+    border-radius: 18px;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.09);
+    text-align: center;
+}
+
+.input-section h2 {
+    color: #9932cc;
+    margin-bottom: 1.2rem;
+    letter-spacing: 1px;
+    font-size: 1.5rem;
+}
+
+.gossip-form {
+    display: flex;
+    flex-direction: column;
+    gap: 1.3rem;
+}
+
+.gossip-form label {
+    text-align: left;
+    font-weight: 500;
+    color: #ee1289;
+    margin-bottom: .2rem;
+}
+
+.gossip-form input[type="text"],
+.gossip-form textarea {
+    padding: .7rem 1rem;
+    border: 1px solid #df5fa2;
+    border-radius: 8px;
+    font-size: 1rem;
+    background: #ffe4e1;
+    font-family: inherit;
+    outline: none;
+    transition: border-color .2s;
+}
+
+.gossip-form textarea {
+    resize: vertical;
+}
+
+.gossip-form input[type="file"] {
+    margin-top: .6rem;
+    background: #fff8fb;
+    border: none;
+    font-size: 1rem;
+}
+
+.gossip-form input:focus,
+.gossip-form textarea:focus {
+    border-color: #9932cc;
+}
+
+.gossip-form .submit-btn {
+    margin-top: .8rem;
+    align-self: center;
+}
+.hub-link {
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 12px;
+    transition: background 0.2s, box-shadow 0.2s;
+}
+
+.hub-link h1 {
+    color: #fff;
+    background: #9932cc;
+    padding: 0.5rem 1.2rem;
+    border-radius: 12px;
+    margin: 0 0 0.5rem 0;
+    font-size: 2.5rem;
+    letter-spacing: 2px;
+}
+
+.hub-link:hover h1 {
+    background: #c15aff;
+    box-shadow: 0 2px 8px rgba(163,48,203,0.15);
+    cursor: pointer;
+}

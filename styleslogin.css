@@ -1,0 +1,16 @@
+/* Remove default margins and padding */
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+/* Background image container */
+.bg-image {
+    background-image: url("C:\xampp\htdocs\Thalliola\GOSSIP.png"); /* Replace with your image path */
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-size: cover;   /* Makes image cover the whole screen */
+    background-repeat: no-repeat;
+}

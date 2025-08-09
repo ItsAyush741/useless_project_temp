@@ -1,96 +1,67 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# [THALLIOLA] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [LEGION OF GEEKS]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Sreehari R S] - [College of engineering,Perumon]
+- Member 2: [Ayush S] - [College of engineering,Perumon]
 
 ### Project Description
-[2-3 lines about what your project does]
+["THALLIOLA" the prehistoric written means just got a new twist of gossip . Last year during the first edition of useless projects we build thaaliola version 1 which was a static website , but now we made it dynamic and other users can add their own gossips and fake news]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[[We all love to gossip]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+["Thalliola provides you a space to gossip read gossip"]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [html, css , bootstrap as frontend ,php as backend and using MYSQL as database ]
+
+- [used "host.co.in" to host the website ]
 
 For Hardware:
 - [List main components]
 - [List specifications]
 - [List tools required]
 
-### Implementation
-For Software:
-# Installation
-[commands]
 
-# Run
-[commands]
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot1](<img width="2874" height="1575" alt="Screenshot 2025-08-09 085139" src="https://github.com/user-attachments/assets/ae7166bc-2e10-458e-80bb-d5180de9cba1" />
+)
+*the useless login page that doesnt require to login*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2](A<img width="2872" height="1568" alt="Screenshot 2025-08-09 090053" src="https://github.com/user-attachments/assets/3a1dd336-00c9-47ac-98e9-799c3ad29b17" />
+)
+*the main page showing all the fake news and gosspips*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot3](<img width="2874" height="1576" alt="Screenshot 2025-08-09 085117" src="https://github.com/user-attachments/assets/cb47e654-6e65-41e0-9919-3d2e42c054d5" />
+)
+*create post page *
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
-For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
 
 # Additional Demos
-[Add any extra demo materials/links]
+https://edutestsite.info/
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Sreehari R S]: [Back end]
+- [Ayush S]: [Front end]
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
